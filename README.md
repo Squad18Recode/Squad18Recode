@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Bootcamp+Recode+Pro;Formação+Full+Stack;Desenvolvimento+Web+)](https://git.io/typing-svg)
 
-<div><a href = "mailto:guialvesrodrigues15@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a></div>
+<div><a href = "mailto:squad18recodepro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a></div>
 
 ![Alves GitHub stats](https://github-readme-stats.vercel.app/api?username=Squad18Recode&show_icons=true&theme=dracula)
 
